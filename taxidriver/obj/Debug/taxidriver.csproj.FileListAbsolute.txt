@@ -1,0 +1,7 @@
+D:\semester2\pemograman\Class dan Object\taxidriver\taxidriver\bin\Debug\taxidriver.exe.config
+D:\semester2\pemograman\Class dan Object\taxidriver\taxidriver\bin\Debug\taxidriver.exe
+D:\semester2\pemograman\Class dan Object\taxidriver\taxidriver\bin\Debug\taxidriver.pdb
+D:\semester2\pemograman\Class dan Object\taxidriver\taxidriver\obj\Debug\taxidriver.csprojAssemblyReference.cache
+D:\semester2\pemograman\Class dan Object\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.CoreCompileInputs.cache
+D:\semester2\pemograman\Class dan Object\taxidriver\taxidriver\obj\Debug\taxidriver.exe
+D:\semester2\pemograman\Class dan Object\taxidriver\taxidriver\obj\Debug\taxidriver.pdb
